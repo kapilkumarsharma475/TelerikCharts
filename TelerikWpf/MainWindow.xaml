@@ -1,0 +1,29 @@
+﻿<Window x:Class="TelerikWpf.MainWindow"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+                Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <telerik:RadCartesianChart x:Name="chart1" 
+                                   Palette="Windows8">
+            <telerik:RadCartesianChart.HorizontalAxis>
+                <telerik:CategoricalAxis>
+                </telerik:CategoricalAxis>
+            </telerik:RadCartesianChart.HorizontalAxis>
+            <telerik:RadCartesianChart.VerticalAxis >
+                <telerik:LinearAxis Minimum="-10" ElementBrush="Orange" LineStroke="Blue"/>
+            </telerik:RadCartesianChart.VerticalAxis>
+            <telerik:RadCartesianChart.SeriesProvider>
+                <telerik:ChartSeriesProvider Source="{Binding Interfaces}">
+                    <telerik:ChartSeriesProvider.SeriesDescriptors>
+                        <telerik:CategoricalSeriesDescriptor ItemsSourcePath="DataPoints"  ValuePath="Rate" CategoryPath="Date">
+                            <telerik:CategoricalSeriesDescriptor.Style>
+                                <Style TargetType="telerik:LineSeries" />
+                            </telerik:CategoricalSeriesDescriptor.Style>
+                        </telerik:CategoricalSeriesDescriptor>
+                    </telerik:ChartSeriesProvider.SeriesDescriptors>
+                </telerik:ChartSeriesProvider>
+            </telerik:RadCartesianChart.SeriesProvider>
+        </telerik:RadCartesianChart>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+﻿<FileList>
+  <File Reference="Telerik.Windows.Controls.Chart.dll">
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Data Visualization 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Data Visualization 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadCartesianChart3D" />
+      <Item Type="Telerik.Windows.Controls.ChartDataSource" />
+      <Item Type="Telerik.Windows.Controls.RadFunnelChart" />
+      <Item Type="Telerik.Windows.Controls.RadCartesianChart" />
+      <Item Type="Telerik.Windows.Controls.RadPieChart" />
+      <Item Type="Telerik.Windows.Controls.RadPolarChart" />
+    </ToolboxItems>
+  </File>
+</FileList>

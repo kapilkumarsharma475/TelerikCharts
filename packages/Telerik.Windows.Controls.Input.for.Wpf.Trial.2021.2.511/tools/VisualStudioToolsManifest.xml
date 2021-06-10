@@ -1,0 +1,28 @@
+﻿<FileList>
+  <File Reference="Telerik.Windows.Controls.Input.dll">
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Input 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Input 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadAutoCompleteBox" />
+      <Item Type="Telerik.Windows.Controls.RadAutoCompleteBoxItem" />
+      <Item Type="Telerik.Windows.Controls.RadAutoSuggestBox" />
+      <Item Type="Telerik.Windows.Controls.RadCalculator" />
+      <Item Type="Telerik.Windows.Controls.RadCalculatorPicker" />
+      <Item Type="Telerik.Windows.Controls.RadCalendar" />
+      <Item Type="Telerik.Windows.Controls.RadColorEditor" />
+      <Item Type="Telerik.Windows.Controls.RadColorPicker" />
+      <Item Type="Telerik.Windows.Controls.RadColorSelector" />
+      <Item Type="Telerik.Windows.Controls.RadComboBox" />
+      <Item Type="Telerik.Windows.Controls.RadComboBoxItem" />
+      <Item Type="Telerik.Windows.Controls.RadDatePicker" />
+      <Item Type="Telerik.Windows.Controls.RadDateTimePicker" />
+      <Item Type="Telerik.Windows.Controls.RadMaskedCurrencyInput" />
+      <Item Type="Telerik.Windows.Controls.RadMaskedDateTimeInput" />
+      <Item Type="Telerik.Windows.Controls.RadMaskedNumericInput" />
+      <Item Type="Telerik.Windows.Controls.RadMaskedTextInput" />
+      <Item Type="Telerik.Windows.Controls.RadNumericUpDown" />
+      <Item Type="Telerik.Windows.Controls.RadRating" />
+      <Item Type="Telerik.Windows.Controls.RadRatingItem" />
+      <Item Type="Telerik.Windows.Controls.RadTimePicker" />
+      <Item Type="Telerik.Windows.Controls.RadTimeSpanPicker" />
+    </ToolboxItems>
+  </File>
+</FileList>

@@ -1,0 +1,9 @@
+﻿<FileList>
+  <File Reference="Telerik.Windows.Controls.GridView.dll">
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Data 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Data 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadGridView" />
+      <Item Type="Telerik.Windows.Controls.RadMultiColumnComboBox" />
+      <Item Type="Telerik.Windows.Controls.RadTreeListView" />
+    </ToolboxItems>
+  </File>
+</FileList>

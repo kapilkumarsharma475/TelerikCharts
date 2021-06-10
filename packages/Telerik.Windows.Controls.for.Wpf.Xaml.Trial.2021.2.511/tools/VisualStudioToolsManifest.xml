@@ -1,0 +1,47 @@
+﻿<FileList>
+  <File Reference="Telerik.Windows.Controls.dll">
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Common 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Common 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadCallout" />
+      <Item Type="Telerik.Windows.Controls.Label" />
+      <Item Type="Telerik.Windows.Controls.RadToolTip" />
+      <Item Type="Telerik.Windows.Controls.RadToolTipContentView" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Navigation 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Navigation 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadTaskBoard" />
+      <Item Type="Telerik.Windows.Controls.RadTileList" />
+      <Item Type="Telerik.Windows.Controls.Tile" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Containers 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Containers 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadBusyIndicator" />
+      <Item Type="Telerik.Windows.Controls.RadExpander" />
+      <Item Type="Telerik.Windows.Controls.RadFluidContentControl" />
+      <Item Type="Telerik.Windows.Controls.GroupBox" />
+      <Item Type="Telerik.Windows.Controls.RadTransitionControl" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Buttons 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Buttons 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadButton" />
+      <Item Type="Telerik.Windows.Controls.RadDropDownButton" />
+      <Item Type="Telerik.Windows.Controls.RadHyperlinkButton" />
+      <Item Type="Telerik.Windows.Controls.RadPathButton" />
+      <Item Type="Telerik.Windows.Controls.RadRadioButton" />
+      <Item Type="Telerik.Windows.Controls.RadSplitButton" />
+      <Item Type="Telerik.Windows.Controls.RadToggleButton" />
+      <Item Type="Telerik.Windows.Controls.RadToggleSwitchButton" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Data 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Data 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadListBox" />
+      <Item Type="Telerik.Windows.Controls.VirtualizingWrapPanel" />
+      <Item Type="Telerik.Windows.Controls.RadListBoxItem" />
+      <Item Type="Telerik.Windows.Controls.RadProgressBar" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Data Visualization 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Data Visualization 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadLegend" />
+      <Item Type="Telerik.Windows.Controls.Legend.LegendItemControl" />
+    </ToolboxItems>
+    <ToolboxItems UIFramework="WPF" VSCategory="Telerik UI for WPF - Input 2021 R2 (NuGet)" BlendCategory="Telerik UI for WPF - Input 2021 R2 (NuGet)">
+      <Item Type="Telerik.Windows.Controls.RadSlider" />
+      <Item Type="Telerik.Windows.Controls.RadPasswordBox" />
+      <Item Type="Telerik.Windows.Controls.RadWatermarkTextBox" />
+    </ToolboxItems>
+  </File>
+</FileList>
